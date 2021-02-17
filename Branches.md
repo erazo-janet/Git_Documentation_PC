@@ -16,7 +16,7 @@ To checkout the new branch, run the command:
 ```
 git checkout featurex
 ```
-Lets check our branches, and what branch is currently hecked out. To do this Lets run:
+Lets check our branches, and what branch is currently hecked out. To do this lets run:
 ```
 git branches
 git --oneline --graph
