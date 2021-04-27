@@ -18,3 +18,8 @@ git config --global user.name "Janet Erazo"
 git config --global user.email "Janetv0723@gmail.com"
 ```
 ### Congratulations, you have configured Git!
+
+Click here to:
+- [Create a local repository with Command Line](https://github.com/erazo-janet/Git_Documentation_PC/blob/main/Create_Local_RepoCL.md)
+- [Commit repository with Command Line](https://github.com/erazo-janet/Git_Documentation_PC/blob/main/Commit_CL.md)
+- [Create, commit, checkout branches with Command Line](https://github.com/erazo-janet/Git_Documentation_PC/blob/main/Commit_CL.md)
